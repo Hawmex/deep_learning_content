@@ -1,2 +1,3 @@
-__pycache__
-dnn/lab/data
+*.pyo
+*.pyc
+*.csv
